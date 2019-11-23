@@ -1,0 +1,9 @@
+INSERT INTO `insurance_type` (`id`, `Insurance_type`)
+VALUES
+	(1, 'MOTOR INSURANCE'),
+	(2, 'FIRE INSURANCE'),
+	(3, 'HEALTH INSURANCE'),
+	(4, 'HOME INSURANCE'),
+	(5, 'PERSONAL ACCIDENTAL INSURANCE'),
+	(6, 'LIFE INSURANCE'),
+	(7, 'OTHERS');
